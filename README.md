@@ -39,9 +39,7 @@ For a complete list, see my [Github](https://github.com/LornaHa).
 **Makers (1st October 2018 - 1st February 2019)**               
 *16 week intensive software development bootcamp*       
 
-Makers has allowed for personal development as well as learning the fundamentals of programming.
-Every day consisted of morning workshops and personal development, followed by afternoon pair programming projects.
-The intensity of the course regularly put me out of my comfort zone, forcing me to develop strategies which allows fast and independent learning. It also allowed me to develop an open mind to problem solving as well as being able to refine my skills of breaking down problems. This has allowed me to be able to take on any challenge, however big it may seem to begin with.
+Makers has allowed for personal development as well as learning the fundamentals of programming. Every day consisted of morning workshops and personal development, followed by afternoon pair programming projects. The intensity of the course regularly put me out of my comfort zone, forcing me to develop strategies which allowed fast and independent learning. I also developed an open mind to problem solving as well as being able to refine my skills of breaking down problems. This enables me to be able to take on any challenge, however big it may seem to begin with.
 
 Working with others has been one of the main aspects of the course, I feel I am a great collaborator and I work at my best with others.
 
